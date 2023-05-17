@@ -1,2 +1,3 @@
 # hic
 Home IoT Center
+Big ideas, lot of work, delicacy...
